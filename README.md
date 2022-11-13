@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Cubi
+- 👀 I’m interested in Catholicism
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on games like brickplanet
+- 📫 How to reach me on discord @Cubi#5268
